@@ -26,3 +26,5 @@ The complexity is $O(T \cdot N^2 \cdot M)$, where $T$ is the number of items, $N
 I compared it with generating a simple list of best-sellers, and it beat it by a huge margin, so it's likely correct.
 
 Find me at [Forecastegy](https://forecastegy.com).
+
+PS: if you find it useful, please 🌟 the repo, thanks!
